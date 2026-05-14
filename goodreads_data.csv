@@ -1,0 +1,338 @@
+,author,title,isbn,rating_dist,ratings_count,text_reviews_count,average_rating,original_publication_year,type
+0,Douglas   Stuart,Shuggie Bain,52741293,5:96723|4:70948|3:22271|2:4990|1:1907|total:196839,196839,22003,4.3,2020,literary fiction
+1,Kiley Reid,Such a Fun Age,43923951,5:118855|4:257577|3:165762|2:33903|1:6593|total:582690,582690,46868,3.77,2019,literary fiction
+2,Colum McCann,Apeirogon,50732671,5:13598|4:8946|3:3513|2:1025|1:409|total:27491,27491,4252,4.25,2019,literary fiction
+3,Diane  Cook,The New Wilderness,43520616,5:3491|4:6455|3:4945|2:1545|1:330|total:16766,16766,2172,3.67,2020,literary fiction
+4,Hilary Mantel,"The Mirror & the Light (Thomas Cromwell, #3)",45992717,5:27084|4:14862|3:4712|2:962|1:321|total:47941,47941,6208,4.41,2020,literary fiction
+5,Avni Doshi,Burnt Sugar,52969580,5:2850|4:7842|3:10209|2:4461|1:1260|total:26622,26622,3449,3.25,2019,literary fiction
+6,C Pam Zhang,How Much of These Hills Is Gold,45895362,5:6394|4:10839|3:7216|2:1841|1:493|total:26783,26783,3682,3.78,2020,literary fiction
+7,Anne Tyler,Redhead by the Side of the Road,46014983,5:8607|4:20305|3:17600|2:4166|1:926|total:51604,51604,6242,3.61,2020,literary fiction
+8,Tsitsi Dangarembga,This Mournable Body,36479936,5:592|4:1572|3:2002|2:682|1:195|total:5043,5043,729,3.33,2018,literary fiction
+9,Sophie  Ward,Love and Other Thought Experiments,43528427,5:1187|4:2318|3:1872|2:680|1:175|total:6232,6232,867,3.59,2020,literary fiction
+10,Maaza Mengiste,The Shadow King,43726511,5:3294|4:5498|3:4602|2:1396|1:382|total:15172,15172,2052,3.65,2019,literary fiction
+11,Brandon  Taylor,Real Life,46263943,5:9384|4:14888|3:9922|2:2867|1:721|total:37782,37782,5705,3.78,2020,literary fiction
+12,Gabriel Krauze,Who They Was,52813345,5:1832|4:2031|3:896|2:244|1:116|total:5119,5119,613,4.02,2020,literary fiction
+13,Percival Everett,The Trees,56269278,5:21711|4:26986|3:10717|2:2486|1:764|total:62664,62664,8598,4.06,2021,literary fiction
+14,Claire Keegan,Small Things Like These,58662236,5:165182|4:206180|3:87623|2:15532|1:2981|total:477498,477498,56665,4.08,2021,literary fiction
+15,Shehan Karunatilaka,The Seven Moons of Maali Almeida,57224204,5:18727|4:24744|3:13674|2:3830|1:1279|total:62254,62254,8286,3.9,2022,literary fiction
+16,Leila Mottley,Nightcrawling,58537371,5:17697|4:28203|3:13641|2:2803|1:594|total:62938,62938,8269,3.95,2022,literary fiction
+17,Audrey Magee,The Colony,57977494,5:4823|4:5715|3:2141|2:474|1:132|total:13285,13285,1841,4.1,2022,literary fiction
+18,Hernan Diaz,Trust,58210933,5:47859|4:70488|3:45599|2:13759|1:4036|total:181741,181741,21691,3.79,2022,literary fiction
+19,NoViolet Bulawayo,Glory,58491879,5:1518|4:2175|3:1445|2:589|1:222|total:5949,5949,1084,3.7,2022,literary fiction
+20,Maddie Mortimer,Maps of Our Spectacular Bodies,59366234,5:2557|4:2695|3:1590|2:497|1:132|total:7471,7471,1374,3.94,2022,literary fiction
+21,Graeme Macrae Burnet,Case Study,57539677,5:1880|4:4920|3:4187|2:1179|1:269|total:12435,12435,1723,3.56,2021,literary fiction
+22,Elizabeth Strout,"Oh William! (Amgash, #3)",56294820,5:25133|4:40154|3:23993|2:5366|1:1328|total:95974,95974,9622,3.86,2021,literary fiction
+23,Alan Garner,Treacle Walker,58205835,5:1155|4:2499|3:3279|2:1937|1:879|total:9749,9749,1776,3.11,2021,literary fiction
+24,Karen Joy Fowler,Booth,58502673,5:3968|4:6269|3:3895|2:1007|1:267|total:15406,15406,2432,3.82,2022,literary fiction
+25,Selby Wynn Schwartz,After Sappho,61089551,5:1209|4:2009|3:2089|2:847|1:225|total:6379,6379,1373,3.49,2022,literary fiction
+26,Tan Twan Eng,The House of Doors,65215270,5:8482|4:10490|3:4272|2:713|1:154|total:24111,24111,2930,4.1,2023,literary fiction
+27,Paul Murray,The Bee Sting,62039166,5:46059|4:53697|3:28832|2:10616|1:4659|total:143863,143863,20141,3.88,2023,literary fiction
+28,Sebastian Barry,Old God's Time,62331692,5:5266|4:7488|3:4709|2:1440|1:534|total:19437,19437,3018,3.8,2023,literary fiction
+29,Paul    Lynch,Prophet Song,158875813,5:33505|4:33033|3:15805|2:5227|1:1668|total:89238,89238,13272,4.03,2023,literary fiction
+30,Jonathan Escoffery,If I Survive You,60524416,5:2325|4:5806|3:4331|2:908|1:215|total:13585,13585,1753,3.67,2022,literary fiction
+31,Paul Harding,This Other Eden,61118954,5:5180|4:8598|3:6191|2:1587|1:385|total:21941,21941,3033,3.76,2023,literary fiction
+32,Martin MacInnes,In Ascension,81360004,5:3846|4:5960|3:4196|2:1420|1:354|total:15776,15776,2512,3.73,2024,literary fiction
+33,Viktoria Lloyd-Barlow,All the Little Bird-Hearts,62606735,5:1140|4:2414|3:1505|2:385|1:75|total:5519,5519,832,3.75,2023,literary fiction
+34,Chetna Maroo,Western Lane,61104275,5:1387|4:3975|3:4476|2:1107|1:169|total:11114,11114,1603,3.48,2023,literary fiction
+35,Elaine Feeney,How to Build a Boat,61634095,5:1491|4:2788|3:2070|2:502|1:123|total:6974,6974,821,3.72,2023,literary fiction
+36,Sarah Bernstein,Study for Obedience,123636870,5:1121|4:3216|3:5404|2:3191|1:1120|total:14052,14052,2560,3.0,2023,literary fiction
+37,Ayọ̀bámi Adébáyọ̀,A Spell of Good Things,57834285,5:1507|4:3257|3:2024|2:394|1:93|total:7275,7275,1235,3.78,2023,literary fiction
+38,Percival Everett,James,173754979,5:304737|4:187960|3:48706|2:8371|1:2556|total:552330,552330,57246,4.42,2024,literary fiction
+39,Yael van der Wouden,The Safekeep,199798201,5:44200|4:52720|3:23168|2:4999|1:1080|total:126167,126167,18209,4.06,2024,literary fiction
+40,Samantha Harvey,Orbital,123136728,5:30019|4:49894|3:48510|2:21107|1:6643|total:156173,156173,27285,3.48,2023,literary fiction
+41,Charlotte  Wood,Stone Yard Devotional,168632462,5:6541|4:11962|3:8696|2:2302|1:598|total:30099,30099,4155,3.72,2023,literary fiction
+42,Hisham Matar,My Friends,127488823,5:7604|4:6675|3:2047|2:334|1:79|total:16739,16739,2518,4.28,2024,literary fiction
+43,Colin  Barrett,Wild Houses,128714412,5:1408|4:4035|3:2998|2:474|1:102|total:9017,9017,1175,3.68,2024,literary fiction
+44,Anne  Michaels,Held,200241802,5:2187|4:3986|3:3977|2:1517|1:446|total:12113,12113,2221,3.49,2023,literary fiction
+45,Rita Bullwinkel,Headshot,174156218,5:2199|4:5449|3:5617|2:1846|1:391|total:15502,15502,2813,3.47,2024,literary fiction
+46,Claire Messud,This Strange Eventful History,201187765,5:1114|4:2091|3:1922|2:607|1:198|total:5932,5932,958,3.56,None,literary fiction
+47,Tommy Orange,Wandering Stars,174147294,5:8760|4:17223|3:10367|2:2151|1:520|total:39021,39021,5722,3.81,2024,literary fiction
+48,Rachel Kushner,Creation Lake,207300960,5:4838|4:12053|3:13159|2:5560|1:1685|total:37295,37295,5777,3.34,2024,literary fiction
+49,Sarah Perry,Enlightenment,196774352,5:1211|4:1780|3:1569|2:699|1:208|total:5467,5467,1083,3.56,2024,literary fiction
+50,Richard Powers,Playground,205478762,5:19830|4:18540|3:7895|2:1844|1:569|total:48678,48678,7162,4.13,2024,literary fiction
+51,Benjamin Wood,Seascraper,220605957,5:4418|4:6488|3:2763|2:475|1:101|total:14245,14245,2414,4.03,2025,literary fiction
+52,Natasha   Brown,Universality,214269374,5:857|4:2931|3:4197|2:1590|1:327|total:9902,9902,1873,3.24,2025,literary fiction
+53,David Szalay,Flesh,214152261,5:15376|4:27027|3:18446|2:5650|1:1580|total:68079,68079,10144,3.72,2025,literary fiction
+54,Katie Kitamura,Audition,216247518,5:4626|4:12780|3:15795|2:7261|1:1471|total:41933,41933,7895,3.28,2025,literary fiction
+55,Susan Choi,Flashlight,219743621,5:6033|4:8439|3:4604|2:1114|1:269|total:20459,20459,3151,3.92,2025,literary fiction
+56,Andrew  Miller,The Land in Winter,209160325,5:3534|4:7322|3:5061|2:1360|1:311|total:17588,17588,2337,3.71,2024,literary fiction
+57,Maria Reva,Endling,218460339,5:2999|4:4737|3:2822|2:698|1:159|total:11415,11415,2285,3.85,2025,literary fiction
+58,Claire Adam,Love Forms,220999014,5:663|4:1573|3:1347|2:305|1:81|total:3969,3969,704,3.61,2025,literary fiction
+59,Tash Aw,The South,217587065,5:702|4:1925|3:1651|2:348|1:36|total:4662,4662,846,3.62,2025,literary fiction
+60,Jonathan Buckley,One Boat,217832844,5:175|4:623|3:975|2:432|1:89|total:2294,2294,475,3.16,2025,literary fiction
+61,Ledia Xhoga,Misinterpretation,205973374,5:334|4:1269|3:1653|2:476|1:96|total:3828,3828,775,3.33,2024,literary fiction
+62,Benjamin Markovits,The Rest of Our Lives,218734847,5:1878|4:5526|3:7457|2:2848|1:644|total:18353,18353,2478,3.28,2025,literary fiction
+63,Kiran Desai,The Loneliness of Sonia and Sunny,222683974,5:7896|4:9828|3:7632|2:2541|1:846|total:28743,28743,4501,3.74,2025,literary fiction
+64,Bob Mortimer,The Long Shoe,222493271,5:2559|4:4617|3:2294|2:311|1:42|total:9823,9823,980,3.95,2025,literary fiction
+65,Ken Follett,Circle of Days,219856609,5:10480|4:12202|3:7901|2:2150|1:738|total:33471,33471,3171,3.88,2025,literary fiction
+66,Dan    Brown,"The Secret of Secrets (Robert Langdon, #6)",223889699,5:51342|4:61059|3:37588|2:9266|1:2426|total:161681,161681,16134,3.93,2025,literary fiction
+67,Anuk Arudpragasam,A Passage North,55873262,5:1998|4:3508|3:2643|2:736|1:196|total:9081,9081,1462,3.7,2021,literary fiction
+68,Rachel Cusk,Second Place,54785558,5:6709|4:10333|3:8179|2:2662|1:890|total:28773,28773,3754,3.67,2021,literary fiction
+69,Damon Galgut,The Promise,54633172,5:13293|4:20935|3:12558|2:3189|1:800|total:50775,50775,5262,3.84,2021,literary fiction
+70,Karen Jennings,An Island,59576018,5:556|4:1660|3:1521|2:352|1:95|total:4184,4184,629,3.53,2020,literary fiction
+71,Nathan  Harris,The Sweetness of Water,54404602,5:23634|4:26335|3:9902|2:1719|1:498|total:62088,62088,5828,4.14,2021,literary fiction
+72,Kazuo Ishiguro,Klara and the Sun,54120408,5:100332|4:176872|3:130260|2:34566|1:6279|total:448309,448309,50946,3.74,2021,literary fiction
+73,Mary Lawson,A Town Called Solace,53328334,5:8819|4:13796|3:5895|2:1031|1:186|total:29727,29727,3111,4.01,2021,literary fiction
+74,Patricia Lockwood,No One Is Talking About This,53733106,5:12513|4:18908|3:15449|2:6871|1:3002|total:56743,56743,10146,3.55,2021,literary fiction
+75,Nadifa Mohamed,The Fortune Men,55592200,5:1161|4:2689|3:1535|2:278|1:84|total:5747,5747,776,3.79,2021,literary fiction
+76,Richard Powers,Bewilderment,56404444,5:22803|4:27726|3:15954|2:4776|1:1308|total:72567,72567,9397,3.91,2021,literary fiction
+77,Sunjeev Sahota,China Room,55994371,5:2192|4:4776|3:3057|2:611|1:111|total:10747,10747,1202,3.77,2021,literary fiction
+78,Maggie Shipstead,Great Circle,54976986,5:31975|4:33706|3:14174|2:3329|1:1264|total:84448,84448,10286,4.09,2021,literary fiction
+79,Francis Spufford,Light Perpetual,58438601,5:1442|4:2225|3:1785|2:582|1:182|total:6216,6216,1092,3.67,2021,literary fiction
+80,John Grisham,"Camino Winds (Camino Island, #2)",9780385545938,5:25068|4:35085|3:26357|2:5894|1:1509|total:93913,93913,6575,3.81,2020,popular fiction
+81,Celeste Ng,Little Fires Everywhere,9780735224315,5:451557|4:581642|3:239655|2:44546|1:11568|total:1328968,1328968,85584,4.07,2017,popular fiction
+82,Delia Owens,Where the Crawdads Sing,9780735219090,5:2085450|4:1074033|3:391127|2:103805|1:40707|total:3695122,3695122,228487,4.37,2018,popular fiction
+83,Jeanine Cummins,American Dirt,9781250209764,5:375037|4:237119|3:69369|2:14968|1:6334|total:702827,702827,53548,4.37,2020,popular fiction
+84,John Sandford,Masked Prey,9780525539537,5:10528|4:10118|3:4066|2:680|1:281|total:25673,25673,1699,4.17,2020,popular fiction
+85,John Grisham,"Camino Ghosts (Camino Island, #3)",9780385545990,5:27733|4:22297|3:10567|2:2032|1:642|total:63271,63271,3931,4.18,2024,popular fiction
+86,Kristin Hannah,The Women,9781250178633,5:1139560|4:408001|3:103824|2:18681|1:5098|total:1675164,1675164,173299,4.59,2024,popular fiction
+87,Stephen King,You Like It Darker,9781668037713,5:36107|4:39570|3:13674|2:2292|1:646|total:92289,92289,11112,4.17,2024,popular fiction
+88,Emily Henry,Funny Story,9780593441282,5:529041|4:580780|3:202036|2:29953|1:6120|total:1347930,1347930,167815,4.18,2024,popular fiction
+89,Abby Jimenez,"Just for the Summer (Part of Your World, #3)",9781538704431,5:559873|4:422017|3:122636|2:19150|1:4225|total:1127901,1127901,134160,4.34,2024,popular fiction
+90,Colleen Hoover,"It Ends with Us (It Ends with Us, #1)",9781501110368,5:2131502|4:1405755|3:724455|2:275144|1:170179|total:4707035,4707035,303613,4.07,2016,popular fiction
+91,Rebecca Yarros,"Iron Flame (The Empyrean, #2)",9781649374172,5:1460734|4:872186|3:303892|2:62555|1:17722|total:2717089,2717089,253219,4.36,2023,popular fiction
+92,Rebecca Yarros,"Fourth Wing (The Empyrean, #1)",9781649374042,5:2577381|4:790118|3:239098|2:67735|1:33690|total:3708022,3708022,399912,4.57,2023,popular fiction
+93,Harlan Coben,"Think Twice (Myron Bolitar, #12)",9781538756348,5:22845|4:19428|3:7869|2:1279|1:337|total:51758,51758,3729,4.22,2024,popular fiction
+94,Ernest Cline,"Ready Player Two (Ready Player One, #2)",9781524761332,5:31522|4:61104|3:63724|2:25105|1:8184|total:189639,189639,21893,3.44,2020,popular fiction
+95,John Grisham,"A Time for Mercy (Jake Brigance, #3)",9780385545969,5:46823|4:37580|3:11734|2:1913|1:764|total:98814,98814,7257,4.29,2020,popular fiction
+96,Brit Bennett,The Vanishing Half,9780525536291,5:308588|4:385213|3:148267|2:21787|1:4790|total:868645,868645,68081,4.12,2020,popular fiction
+97,Nicholas Sparks,The Return,9781538728574,5:34184|4:38273|3:26697|2:6394|1:1621|total:107169,107169,7134,3.91,2020,popular fiction
+98,Dan Brown,"The Secret of Secrets (Robert Langdon, #6)",9780385546898,5:50139|4:59239|3:36381|2:8990|1:2364|total:157113,157113,15655,3.93,2025,popular fiction
+99,R.F. Kuang,Katabasis,9780063021471,5:36067|4:59873|3:41739|2:12442|1:2800|total:152921,152921,35836,3.75,2025,popular fiction
+100,Delia Owens,Where the Crawdads Sing,9780735219106,5:2085450|4:1074033|3:391127|2:103805|1:40707|total:3695122,3695122,228487,4.37,2018,popular fiction
+101,Emily Henry,Book Lovers,9780593334836,5:604284|4:637256|3:288363|2:61426|1:15722|total:1607051,1607051,179612,4.09,2022,popular fiction
+102,Elin Hilderbrand,The Hotel Nantucket,9780316258678,5:98711|4:147325|3:59991|2:8368|1:1978|total:316373,316373,26016,4.05,2022,popular fiction
+103,Amor Towles,The Lincoln Highway,9780735222359,5:142604|4:116932|3:45936|2:9732|1:2649|total:317853,317853,32807,4.22,2021,popular fiction
+104,John Grisham,"The Judge's List (The Whistler, #2)",9780385546027,5:47992|4:48997|3:20548|2:3581|1:1072|total:122190,122190,7364,4.14,2021,popular fiction
+105,Laura Dave,"The Last Thing He Told Me (Hannah Hall, #1)",9781501171345,5:279308|4:501784|3:317617|2:64557|1:12358|total:1175624,1175624,75153,3.83,2021,popular fiction
+106,Jodi Picoult,Wish You Were Here,9781984818416,5:87653|4:120227|3:67544|2:16204|1:4772|total:296400,296400,27392,3.91,2021,popular fiction
+107,Jack Carr,"In the Blood (Terminal List, #5)",9781982181659,5:16871|4:8635|3:2120|2:313|1:108|total:28047,28047,1135,4.49,2022,popular fiction
+108,John Grisham,The Widow,9780385548984,5:43259|4:38719|3:20352|2:4518|1:1495|total:108343,108343,8218,4.09,2025,popular fiction
+109,Callie Hart,"Brimstone (Fae & Alchemy, #2)",9781538774229,5:116550|4:117983|3:60656|2:14676|1:3345|total:313210,313210,37632,4.05,2025,popular fiction
+110,SenLinYu,Alchemised,9780593972700,5:153790|4:65948|3:26711|2:9258|1:6203|total:261910,261910,49734,4.34,2025,popular fiction
+111,Callie Hart,"Quicksilver (Fae & Alchemy, #1)",9781538774205,5:476639|4:303254|3:108296|2:24628|1:9447|total:922264,922264,106788,4.32,2024,popular fiction
+112,Rebecca Yarros,"Fourth Wing (The Empyrean, #1)",9781649377371,5:2577381|4:790118|3:239098|2:67735|1:33690|total:3708022,3708022,399912,4.57,2023,popular fiction
+113,Reese Witherspoon and Harlan Coben,Gone Before Goodbye,9781538774700,5:27994|4:53601|3:44395|2:11824|1:2879|total:140693,140693,12645,3.65,2025,popular fiction
+114,Brad Thor,"Black Ice (Scot Harvath, #20)",9781982104146,5:8681|4:6218|3:2267|2:424|1:120|total:17710,17710,857,4.29,2021,popular fiction
+115,Miranda Cowley Heller,The Paper Palace,9780593329825,5:100371|4:165105|3:103665|2:28103|1:10470|total:407714,407714,30157,3.78,2021,popular fiction
+116,Percival Everett,James,9780385550369,5:302771|4:186378|3:48129|2:8278|1:2531|total:548087,548087,56823,4.42,2024,popular fiction
+117,James Patterson and Maxine Paetro,25 Alive (Women’s Murder Club #25),9780316569781,5:13121|4:10018|3:5298|2:1077|1:325|total:29839,29839,1489,4.16,2025,popular fiction
+118,Emily Henry,Great Big Beautiful Life,9780593441299,5:224739|4:335819|3:181653|2:30940|1:5459|total:778610,778610,107436,3.95,2025,popular fiction
+119,Rebecca Yarros,Onyx Storm (The Empyrean #3),9781649376947,5:836160|4:573827|3:284368|2:64096|1:15886|total:1774337,1774337,208447,4.21,2025,popular fiction
+120,Jeneva Rose,"The Perfect Divorce (Perfect, #2)",9798874620936,5:84511|4:124703|3:61243|2:9567|1:1495|total:281519,281519,21159,4.0,2025,popular fiction
+121,Freida McFadden,The Tenant,9781464227318,5:163400|4:256582|3:182728|2:34532|1:6237|total:643479,643479,51658,3.83,2025,popular fiction
+122,Colleen Hoover,"It Starts with Us (It Ends with Us, #2)",9781668001226,5:675847|4:724624|3:527916|2:164303|1:56130|total:2148820,2148820,129931,3.84,2022,popular fiction
+123,Stephen King,Fairy Tale,9781668002179,5:139184|4:123106|3:63895|2:16696|1:3955|total:346836,346836,38823,4.09,2022,popular fiction
+124,Michael Connelly,"The Dark Hours (Renée Ballard, #4; Harry Bosch, #23; Harry Bosch Universe, #36)",9780316256568,5:43739|4:30946|3:7792|2:1073|1:468|total:84018,84018,5034,4.39,2021,popular fiction
+125,Nicholas Sparks,The Wish,9781538728628,5:101137|4:65107|3:24238|2:4548|1:1272|total:196302,196302,18428,4.33,2021,popular fiction
+126,Liane Moriarty,Apples Never Fall,9781250220257,5:100349|4:184357|3:126619|2:30913|1:7987|total:450225,450225,35408,3.75,2021,popular fiction
+127,Lee Child and Andrew Child,"Better off Dead (Jack Reacher, #26)",9781984818515,5:20453|4:22646|3:16093|2:4782|1:1667|total:65641,65641,4077,3.84,2021,popular fiction
+128,Hillary Rodham Clinton and Louise Penny,State of Terror,9781982173678,5:31545|4:34816|3:14949|2:2803|1:1039|total:85152,85152,9669,4.09,2021,popular fiction
+129,Tessa Bailey,"Hook, Line, and Sinker (Bellinger Sisters, #2)",9780063045699,5:122951|4:185859|3:113160|2:25771|1:5544|total:453285,453285,39571,3.87,2022,popular fiction
+130,Lucy Foley,The Paris Apartment,9780063003057,5:127110|4:295730|3:245936|2:55368|1:11131|total:735275,735275,60321,3.64,2022,popular fiction
+131,Sarah J. Maas,"House of Sky and Breath (Crescent City, #2)",9781635574074,5:487006|4:271675|3:84955|2:14963|1:3726|total:862325,862325,89626,4.42,2022,popular fiction
+132,Brad Thor,Edge of Honor (Scot Harvath #24),9781982182311,5:6114|4:3387|3:1005|2:137|1:37|total:10680,10680,466,4.44,2025,popular fiction
+133,Taylor Jenkins Reid,Atmosphere,9780593158715,5:408289|4:286683|3:99468|2:16121|1:4025|total:814586,814586,120133,4.32,2025,popular fiction
+134,Navessa Allen,"Caught Up (Into Darkness, #2)",9781638932253,5:60641|4:86044|3:59156|2:16282|1:5047|total:227170,227170,28880,3.8,2025,popular fiction
+135,Stephen King,"Never Flinch (Holly Gibney, #4)",9781668089330,5:17397|4:28703|3:19155|2:4074|1:1055|total:70384,70384,7496,3.81,2025,popular fiction
+136,Lisa Jewell,Don't Let Him In,9781668033876,5:47179|4:90622|3:62930|2:14331|1:2982|total:218044,218044,23902,3.76,2025,popular fiction
+137,Kristin Hannah,The Four Winds,9781250178602,5:504783|4:369392|3:121741|2:25679|1:7451|total:1029046,1029046,92707,4.3,2021,popular fiction
+138,Sister Souljah,"Life After Death (The Coldest Winter Ever, #2)",9781982139131,5:811|4:477|3:809|2:783|1:1323|total:4203,4203,989,2.68,2021,popular fiction
+139,Sarah J. Maas,"A Court of Silver Flames (A Court of Thorns and Roses, #5)",9781681196282,5:1312612|4:593716|3:196807|2:45099|1:17124|total:2165358,2165358,177831,4.45,2021,popular fiction
+140,J.D. Robb,"Golden in Death (In Death, #50)",9781250207210,5:14935|4:8964|3:3157|2:427|1:159|total:27642,27642,2097,4.38,2020,popular fiction
+141,John Grisham,"The Exchange (The Firm, #2)",9780385548953,5:28022|4:32552|3:30116|2:10328|1:3741|total:104759,104759,8198,3.68,2023,popular fiction
+142,Stephen King,"Holly (Holly Gibney, #3)",9781668016138,5:70092|4:80571|3:33076|2:7383|1:3103|total:194225,194225,20979,4.07,2023,popular fiction
+143,Deborah Harkness,The Black Bird Oracle (All Souls #5),9780593724781,5:15636|4:14703|3:8464|2:1884|1:351|total:41038,41038,3843,4.06,2024,popular fiction
+144,Freida McFadden,"The Housemaid Is Watching (The Housemaid, #3)",9781464221132,5:305722|4:411084|3:302892|2:64993|1:10201|total:1094892,1094892,76099,3.86,2024,popular fiction
+145,Harlan Coben,"The Match (Wilde, #2)",9781538748336,5:26518|4:27463|3:10260|2:1620|1:416|total:66277,66277,4379,4.18,2022,popular fiction
+146,Dolly Parton and James Patterson,"Run, Rose, Run",9780759554344,5:37790|4:52105|3:40680|2:9968|1:2343|total:142886,142886,13366,3.79,2022,popular fiction
+147,Julia Quinn,The Duke and I (Bridgertons #1),9780062424037,5:194693|4:264295|3:193617|2:50534|1:15791|total:718930,718930,53612,3.8,2000,popular fiction
+148,Nora Roberts,Nightwork,9781250278203,5:19764|4:14573|3:5962|2:1186|1:396|total:41881,41881,2988,4.24,2022,popular fiction
+149,Robert Galbraith,"The Running Grave (Cormoran Strike, #7)",9780316572132,5:76420|4:30527|3:5848|2:894|1:375|total:114064,114064,9753,4.59,2023,popular fiction
+150,Ann Patchett,Tom Lake,9780063327528,5:157198|4:207511|3:114638|2:28562|1:7451|total:515360,515360,63064,3.93,2023,popular fiction
+151,Kyle Mills,Code Red,9781982165024,5:11510|4:7113|3:2174|2:289|1:88|total:21174,21174,745,4.4,2023,popular fiction
+152,Colleen Hoover,Too Late,9781538756591,5:219214|4:194381|3:103570|2:30934|1:12565|total:560664,560664,36045,4.03,2016,popular fiction
+153,John Sandford,"Judgment Prey (Lucas Davenport #33, Virgil Flowers #15)",9780593542828,5:14323|4:10272|3:3140|2:423|1:153|total:28311,28311,1396,4.35,2023,popular fiction
+154,Elin Hilderbrand,28 Summers,9780316420044,5:117466|4:108313|3:40853|2:9262|1:2860|total:278754,278754,23520,4.18,2020,popular fiction
+155,James Patterson and Bill Clinton,The President's Daughter,9780316540711,5:26012|4:19212|3:6786|2:1224|1:532|total:53766,53766,4113,4.28,2021,popular fiction
+156,John Grisham,Sooley,9780385547680,5:28893|4:24006|3:10946|2:2774|1:1218|total:67837,67837,5967,4.13,2021,popular fiction
+157,Stephen King,Billy Summers,9781982173616,5:82126|4:77441|3:28831|2:6172|1:2005|total:196575,196575,20841,4.18,2021,popular fiction
+158,Emily Henry,Happy Place,9780593441275,5:455572|4:583656|3:335735|2:77790|1:18618|total:1471371,1471371,166645,3.94,2023,popular fiction
+159,Elin Hilderbrand,"The Five-Star Weekend (Sommer in Nantucket, #1)",9780316258777,5:101149|4:154476|3:69990|2:9885|1:2132|total:337632,337632,23633,4.01,2023,popular fiction
+160,Emily McIntire,"Hexed (Never After, #6)",9781728275864,5:26285|4:24386|3:10354|2:2083|1:483|total:63591,63591,7298,4.16,2024,popular fiction
+161,Freida McFadden,The Boyfriend,9781728296227,5:337862|4:433137|3:210610|2:38454|1:7035|total:1027098,1027098,89510,4.03,2024,popular fiction
+162,Nicholas Sparks,Counting Miracles,9780593449592,5:35287|4:33108|3:15411|2:2611|1:578|total:86995,86995,6700,4.15,2024,popular fiction
+163,James Patterson and Maxine Paetro,"The 23rd Midnight (Women's Murder Club, #23)",9780316402989,5:20010|4:13245|3:4646|2:606|1:191|total:38698,38698,1735,4.35,2023,popular fiction
+164,Julie Soto,"Rose in Chains (The Evermore Trilogy, #1)",9781538771228,5:33661|4:28360|3:11102|2:3191|1:1287|total:77601,77601,16793,4.16,2025,popular fiction
+165,Rebecca Yarros,"Onyx Storm (The Empyrean, #3)",9781649377159,5:836174|4:573843|3:284371|2:64096|1:15887|total:1774371,1774371,208448,4.21,2025,popular fiction
+166,Jodi Picoult,The Book of Two Ways,9781984818355,5:26553|4:40538|3:33781|2:10556|1:3728|total:115156,115156,13457,3.66,2020,popular fiction
+167,John Sandford,"Toxic Prey (Lucas Davenport, #34, Letty Davenport, #3)",9780593714508,5:14513|4:7733|3:2598|2:505|1:204|total:25553,25553,1606,4.4,2024,popular fiction
+168,Michael Connelly,"The Law of Innocence (The Lincoln Lawyer, #6; Harry Bosch Universe #35)",9780316498029,5:40264|4:29321|3:7858|2:1226|1:597|total:79266,79266,5649,4.36,2020,popular fiction
+169,Elin Hilderbrand,Troubles in Paradise,9780316435611,5:35548|4:55001|3:32048|2:4856|1:662|total:128115,128115,7719,3.94,2020,popular fiction
+170,David Baldacci,Walk the Wire (Memory Man Book 6),9781538761502,5:26649|4:25781|3:10647|2:2036|1:615|total:65728,65728,3944,4.15,2020,popular fiction
+171,Amanda Gorman,The Hill We Climb: An Inaugural Poem for the Country,9780593465271,5:24812|4:7168|3:2657|2:782|1:430|total:35849,35849,3327,4.54,2021,popular fiction
+172,J.D. Robb,"Framed in Death (In Death, #61)",9781250370839,5:11401|4:5450|3:1789|2:264|1:85|total:18989,18989,1334,4.46,2025,popular fiction
+173,Amanda Gorman,Call Us What We Carry,9780593465066,5:12766|4:9499|3:3372|2:863|1:274|total:26774,26774,4070,4.26,2021,popular fiction
+174,Diana Gabaldon,"Go Tell the Bees That I Am Gone (Outlander, #9)",9781101885680,5:58377|4:24882|3:9516|2:1915|1:602|total:95292,95292,7466,4.45,2021,popular fiction
+175,E.L. James,"Freed (Fifty Shades as Told by Christian, #3)",9781728251059,5:14460|4:9198|3:5808|2:1786|1:820|total:32072,32072,2100,4.08,2021,popular fiction
+176,Laura Dave,"The Last Thing He Told Me (Hannah Hall, #1)",9781501171369,5:279308|4:501784|3:317617|2:64557|1:12358|total:1175624,1175624,75153,3.83,2021,popular fiction
+177,Danielle Steel,Royal: A Novel,9780399179655,5:5518|4:4247|3:2931|2:962|1:403|total:14061,14061,1131,3.96,2020,popular fiction
+178,Sandra Brown,Thick as Thieves,9781538751916,5:9922|4:12156|3:6170|2:1246|1:355|total:29849,29849,1997,4.01,2020,popular fiction
+179,Nora Roberts,Identity,9781250284327,5:35506|4:24734|3:9566|2:2030|1:633|total:72469,72469,5955,4.28,2023,popular fiction
+180,Lee Child and Andrew Child,"The Sentinel (Jack Reacher, #25)",9781984818478,5:22763|4:25898|3:14658|2:3372|1:1207|total:67898,67898,4638,3.97,2020,popular fiction
+181,Colleen Hoover,Verity,9781538739723,5:2123024|4:1134446|3:464598|2:149512|1:68477|total:3940057,3940057,310157,4.29,2018,popular fiction
+182,Nicholas Sparks,Dreamland,9780593449554,5:35727|4:37705|3:24453|2:5842|1:1492|total:105219,105219,7717,3.95,2022,popular fiction
+183,J.D. Robb,"Random in Death (In Death, #58)",9781250289551,5:16432|4:7695|3:2564|2:438|1:169|total:27298,27298,1867,4.46,2024,popular fiction
+184,John Sandford,Lethal Prey (Lucas Davenport #35; Virgil Flowers #16),9780593718421,5:9282|4:7788|3:3037|2:542|1:273|total:20922,20922,1488,4.21,2025,popular fiction
+185,Hilary Mantel,"The Mirror & the Light (Thomas Cromwell, #3)",9780805096606,5:27027|4:14823|3:4706|2:961|1:322|total:47839,47839,6191,4.41,2020,popular fiction
+186,Sarah J. Maas,"House of Earth and Blood (Crescent City, #1)",9781635574043,5:710578|4:352873|3:101623|2:20663|1:9772|total:1195509,1195509,116245,4.45,2020,popular fiction
+187,James Patterson and James O. Born,Blindside (Michael Bennett #12),9780316529563,5:8087|4:8045|3:3513|2:534|1:161|total:20340,20340,1030,4.15,2020,popular fiction
+188,Michael Crichton and James Patterson,Eruption,9780316565073,5:19219|4:22802|3:18876|2:6288|1:1924|total:69109,69109,6314,3.74,2024,popular fiction
+189,John Sandford,"Ocean Prey (Lucas Davenport #31, Virgil Flowers #13)",9780593087039,5:20284|4:12257|3:3703|2:699|1:304|total:37247,37247,2275,4.38,2021,popular fiction
+190,Ana Huang,"King of Sloth (Kings of Sin, #4)",9781728289755,5:75276|4:98720|3:52653|2:10484|1:2353|total:239486,239486,22977,3.98,2024,popular fiction
+191,David Baldacci,A Calamity of Souls,9781538765029,5:42301|4:23556|3:5828|2:991|1:361|total:73037,73037,5622,4.46,2024,popular fiction
+192,Brad Thor,"Near Dark (Scot Harvath, #19)",9781982104085,5:7806|4:5819|3:2259|2:458|1:141|total:16483,16483,963,4.26,2020,popular fiction
+193,Brandon Sanderson,"Wind and Truth (The Stormlight Archive, #5)",9781250319180,5:81772|4:40504|3:15818|2:4466|1:1499|total:144059,144059,18071,4.36,2024,popular fiction
+194,Gregory Maguire,Wicked,9780062852847,5:168155|4:202350|3:181440|2:88417|1:50950|total:691312,691312,40512,3.5,1995,popular fiction
+195,David Baldacci,To Die For (6:20 Man),9781538757932,5:23904|4:15737|3:4611|2:649|1:218|total:45119,45119,2082,4.38,None,popular fiction
+196,Jack Carr,Only the Dead (Terminal List #6),9781982181697,5:15407|4:7075|3:1599|2:227|1:81|total:24389,24389,1052,4.54,2023,popular fiction
+197,John Grisham,"Sparring Partners (Jake Brigance, #4)",9780385549325,5:13394|4:18688|3:14794|2:3597|1:1418|total:51891,51891,3681,3.75,2022,popular fiction
+198,,"The Hamptons Lawyer (Jane Smith, #3)",9780316569941,5:5159|4:4215|3:1898|2:322|1:127|total:11721,11721,494,4.19,2025,popular fiction
+199,Daniel Silva,An Inside Job,9780063384255,5:14518|4:7859|3:2743|2:441|1:155|total:25716,25716,1377,4.41,2025,popular fiction
+200,David Baldacci,"Dream Town (Archer, #3)",9781538719787,5:14858|4:15261|3:7324|2:1326|1:404|total:39173,39173,1882,4.09,2022,popular fiction
+201,John Sandford,"The Investigator (Letty Davenport, #1)",9780593328699,5:16952|4:11577|3:4542|2:957|1:439|total:34467,34467,2351,4.27,2022,popular fiction
+202,Harlan Coben,I Will Find You,9781538748404,5:47746|4:54260|3:21541|2:3533|1:798|total:127878,127878,9417,4.13,2023,popular fiction
+203,Lucy Score,"Things We Hide From the Light (Knockemout, #2)",9781728276113,5:190048|4:205471|3:109870|2:24134|1:5189|total:534712,534712,34462,4.03,2023,popular fiction
+204,James Patterson and Maxine Paetro,"The 24th Hour (Women's Murder Club, #24)",9780316403283,5:13741|4:11647|3:7157|2:1413|1:339|total:34297,34297,1648,4.08,2024,popular fiction
+205,Douglas Preston and Lincoln Child,Bloodless (Pendergast #20),9781538736715,5:7010|4:7114|3:3882|2:1017|1:300|total:19323,19323,1946,4.01,2021,popular fiction
+206,Harlan Coben,The Boy from the Woods,9781538748169,5:35134|4:46989|3:25382|2:5534|1:1525|total:114564,114564,8299,3.95,2020,popular fiction
+207,J.D. Robb,"Passions in Death (In Death, #59)",9781250289575,5:11315|4:7061|3:3221|2:704|1:226|total:22527,22527,1653,4.27,2024,popular fiction
+208,Hannah Grace,"Daydream (Maple Hills, #3)",9781668026250,5:71213|4:99752|3:61167|2:13305|1:2933|total:248370,248370,33169,3.9,2024,popular fiction
+209,Ali Hazelwood,Mate,9780593952580,5:90367|4:110854|3:51286|2:10565|1:2266|total:265338,265338,41303,4.04,2025,popular fiction
+210,Louise Penny,"The Madness of Crowds (Chief Inspector Armand Gamache, #17)",9781250145284,5:34476|4:30348|3:12820|2:2376|1:741|total:80761,80761,7249,4.18,2021,popular fiction
+211,C.J. Box,"Storm Watch (Joe Pickett, #23)",9780593331316,5:12376|4:10248|3:4359|2:810|1:277|total:28070,28070,1591,4.2,2023,popular fiction
+212,Fredrik Backman,My Friends,9781982112844,5:249959|4:141348|3:53535|2:12548|1:4163|total:461553,461553,63229,4.34,2025,popular fiction
+213,Janet Evanovich,Dirty Thirty (Stephanie Plum #30),9781668003121,5:24189|4:21184|3:9375|2:1320|1:345|total:56413,56413,4201,4.2,2023,popular fiction
+214,John Sandford,Righteous Prey,9780593422489,5:16025|4:10122|3:2810|2:389|1:154|total:29500,29500,1680,4.41,2022,popular fiction
+215,Sarah J. Maas,"House of Flame and Shadow (Crescent City, #3)",9781635574104,5:343697|4:244804|3:108891|2:22280|1:5365|total:725037,725037,73262,4.24,2024,popular fiction
+216,James Patterson and Maxine Paetro,21st Birthday (Women's Murder Club #21),9780759555693,5:18425|4:15382|3:7021|2:1331|1:393|total:42552,42552,2167,4.18,2021,popular fiction
+217,Kaylie Smith,"Enchantra (Wicked Games, #2)",9781538770801,5:63910|4:57927|3:16190|2:2090|1:412|total:140529,140529,18402,4.3,2025,popular fiction
+218,Abby Jimenez,Say You'll Remember Me (Say You'll Remember Me #1),9781538759196,5:190748|4:228495|3:119356|2:26163|1:4873|total:569635,569635,72131,4.01,2025,popular fiction
+219,Nora Roberts,"The Mirror (The Lost Bride Trilogy, #2)",9781250288783,5:21952|4:15895|3:8011|2:2006|1:559|total:48423,48423,4142,4.17,2024,popular fiction
+220,James Patterson and Brendan DuBois,"Cross Down (Alex Cross, #31)",9780316404693,5:14262|4:8129|3:2650|2:453|1:197|total:25691,25691,1286,4.39,2023,popular fiction
+221,Quentin Tarantino,Once Upon a Time in Hollywood,9780063112520,5:6164|4:10149|3:5351|2:1427|1:381|total:23472,23472,3127,3.86,2021,popular fiction
+222,Daniel Silva,The Order,9780062834904,5:14564|4:11284|3:4858|2:1196|1:557|total:32459,32459,2688,4.17,2020,popular fiction
+223,Catherine Coulter,"Deadlock (FBI Thriller, #24)",9781501193729,5:4342|4:3155|3:1267|2:212|1:76|total:9052,9052,551,4.27,2020,popular fiction
+224,James Patterson and James O. Born,The Russian (Michael Bennett #13),9780316430241,5:10161|4:7385|3:2539|2:313|1:134|total:20532,20532,1089,4.32,2021,popular fiction
+225,David Baldacci,"A Gambling Man (Archer, #2)",9781538719664,5:18774|4:17901|3:7360|2:1418|1:523|total:45976,45976,2342,4.15,2021,popular fiction
+226,Karin Slaughter,"We Are All Guilty Here (North Falls, #1)",9780063336803,5:59220|4:64491|3:20503|2:3463|1:905|total:148582,148582,14515,4.2,2025,popular fiction
+227,Michael Connelly,"Nightshade (Catalina, #1)",9780316588492,5:20964|4:25507|3:12334|2:1780|1:471|total:61056,61056,3996,4.06,2025,popular fiction
+228,David Baldacci,Mercy,9781538719695,5:26039|4:17274|3:5581|2:905|1:347|total:50146,50146,2661,4.35,2021,popular fiction
+229,Louise Penny,"A World of Curiosities (Chief Inspector Armand Gamache, #18)",9781250145314,5:46595|4:25577|3:7190|2:1238|1:433|total:81033,81033,7424,4.44,2022,popular fiction
+230,Janet Evanovich,"Fortune and Glory: Tantalizing Twenty-Seven (Stephanie Plum, #27)",9781982154868,5:17582|4:20097|3:10927|2:1431|1:306|total:50343,50343,3895,4.06,2020,popular fiction
+231,Lee Child and Andrew Child,The Secret (Jack Reacher #28),9781984818591,5:23207|4:23202|3:11838|2:2344|1:678|total:61269,61269,3083,4.08,2023,popular fiction
+232,Stacey Abrams,"While Justice Sleeps (Avery Keene, #1)",9780385546577,5:14107|4:18766|3:10291|2:2127|1:594|total:45885,45885,5308,3.95,2021,popular fiction
+233,Jack Carr,Red Sky Mourning (Terminal List #7),9781668047071,5:12746|4:6059|3:1661|2:322|1:112|total:20900,20900,1036,4.48,2024,popular fiction
+234,Paula Hawkins,A Slow Fire Burning,9780735211254,5:23879|4:66863|3:70030|2:17329|1:3425|total:181526,181526,14503,3.5,2021,popular fiction
+235,David Baldacci,"Long Shadows (Amos Decker, #7)",9781538719794,5:32594|4:21662|3:5749|2:710|1:210|total:60925,60925,2781,4.41,2022,popular fiction
+236,C.J. Box,"Battle Mountain (Joe Pickett, #25)",9780593851067,5:12312|4:7200|3:2100|2:332|1:85|total:22029,22029,1403,4.42,2025,popular fiction
+237,John Sandford,"Dark Angel (Letty Davenport, #2)",9780593422427,5:11193|4:8978|3:3841|2:769|1:232|total:25013,25013,1417,4.2,2023,popular fiction
+238,Louise Penny,The Black Wolf (Chief Inspector Armand Gamache #20),9781250328182,5:16204|4:13014|3:6312|2:1386|1:466|total:37382,37382,3652,4.15,2025,popular fiction
+239,J.D. Robb,"Abandoned in Death (In Death, #54)",9781250278227,5:15572|4:8318|3:2949|2:501|1:187|total:27527,27527,1918,4.4,2022,popular fiction
+240,TJ Klune,"Somewhere Beyond the Sea (Cerulean Chronicles, #2)",9781250881205,5:84347|4:79455|3:38468|2:8642|1:1907|total:212819,212819,29933,4.11,2024,popular fiction
+241,Nora Roberts,Hideaway,9781250207128,5:19783|4:19583|3:9989|2:2139|1:746|total:52240,52240,3652,4.06,2020,popular fiction
+242,James Patterson and Brendan DuBois,The Summer House,9780316539562,5:28670|4:19868|3:8611|2:1919|1:740|total:59808,59808,2683,4.23,2020,popular fiction
+243,J.D. Robb,Forgotten In Death (In Death #53),9781250272829,5:16759|4:7883|3:2297|2:451|1:216|total:27606,27606,1797,4.47,2021,popular fiction
+244,Brandon Sanderson,Rhythm of War (The Stormlight Archive #4),9781429952040,5:164916|4:67112|3:15297|2:2271|1:546|total:250142,250142,19521,4.57,2020,popular fiction
+245,Daniel Silva,"The Cellist (Gabriel Allon, #21)",9780062834911,5:14794|4:11203|3:5373|2:1913|1:1823|total:35106,35106,3080,4.0,2021,popular fiction
+246,Janet Evanovich,"Game On (Stephanie Plum, #28)",9781982154905,5:21884|4:21240|3:11365|2:1518|1:375|total:56382,56382,3833,4.11,2021,popular fiction
+247,Richard Osman,"The Impossible Fortune (Thursday Murder Club, #5)",9780593653265,5:49145|4:52378|3:13699|2:1014|1:217|total:116453,116453,11094,4.28,2025,popular fiction
+248,Lee Child and Andrew Child,In Too Deep (Jack Reacher #29),9780593725818,5:16833|4:17343|3:11017|2:2983|1:1026|total:49202,49202,2824,3.93,2024,popular fiction
+249,Richard Osman,"The Last Devil to Die (Thursday Murder Club, #4)",9780593299432,5:133713|4:88769|3:17856|2:1491|1:430|total:242259,242259,21279,4.46,2023,popular fiction
+250,Louise Penny,All the Devils Are Here (Chief Inspector Armand Gamache #16),9781250145253,5:46936|4:27771|3:7433|2:1277|1:390|total:83807,83807,8507,4.43,2020,popular fiction
+251,James Patterson and Maxine Paetro,"The 20th Victim (Women's Murder Club, #20)",9780316494953,5:13801|4:14157|3:7518|2:1296|1:358|total:37130,37130,1950,4.07,2020,popular fiction
+252,Ken Follett,"The Evening and the Morning (Kingsbridge, #0)",9781984882028,5:74947|4:44913|3:13300|2:2434|1:1115|total:136709,136709,9719,4.39,2020,popular fiction
+253,Harlan Coben,Win,9781538748268,5:30025|4:31770|3:14074|2:3021|1:1125|total:80015,80015,5640,4.08,2021,popular fiction
+254,David Baldacci,"Simply Lies (Mickey Gibson, #1)",9781538750599,5:19061|4:22949|3:12912|2:2924|1:945|total:58791,58791,3123,3.96,2023,popular fiction
+255,J.D. Robb,"Encore in Death (In Death, #56)",9781250284310,5:14594|4:7848|3:2940|2:445|1:141|total:25968,25968,1718,4.4,2023,popular fiction
+256,J.D. Robb,"Shadows in Death (In Death, #51)",9781250207241,5:16081|4:7719|3:2567|2:517|1:237|total:27121,27121,2067,4.43,2020,popular fiction
+257,Rebecca Yarros,"Onyx Storm (The Empyrean, #3)",9781649374189,5:836174|4:573843|3:284371|2:64096|1:15887|total:1774371,1774371,208448,4.21,2025,popular fiction
+258,Louise Penny,"The Grey Wolf (Chief Inspector Armand Gamache, #19)",9781250328144,5:26463|4:23742|3:12101|2:2764|1:626|total:65696,65696,6122,4.11,2024,popular fiction
+259,Dahlia de la Cerda,Reservoir Bitches,218173295,5:8334|4:8267|3:2835|2:617|1:167|total:20220,20220,4161,4.19,2019,literary fiction
+260,Saou Ichikawa,Hunchback,214986269,5:1850|4:6497|3:7086|2:2461|1:644|total:18538,18538,3793,3.35,2023,literary fiction
+261,Vivian Probst,Breaking the Bias of English: How English Disempowers Women and How to Fix It in Only Six Words!,206355114,5:110|4:25|3:10|2:1|1:1|total:147,147,99,4.65,2024,literary fiction
+262,Vincenzo Latronico,Perfection,220075119,5:8187|4:18268|3:12679|2:3356|1:687|total:43177,43177,7500,3.69,2022,literary fiction
+263,Vincent Delecroix,Small Boat,228394781,5:4603|4:7155|3:3173|2:696|1:156|total:15783,15783,3027,3.97,2023,literary fiction
+264,Banu Mushtaq,Heart Lamp: Selected Stories,205544315,5:2418|4:4141|3:2919|2:662|1:137|total:10277,10277,1910,3.78,2024,literary fiction
+265,Solvej Balle,On the Calculation of Volume I,208511270,5:6633|4:14550|3:10171|2:2607|1:657|total:34618,34618,5597,3.69,2020,literary fiction
+266,Ibtisam Azem,The Book of Disappearance,209141112,5:1116|4:1387|3:497|2:78|1:23|total:3101,3101,614,4.13,2014,literary fiction
+267,Hiromi Kawakami,Under the Eye of the Big Bird,205673377,5:1553|4:3014|3:2145|2:581|1:105|total:7398,7398,1386,3.72,2016,literary fiction
+268,Mircea Cărtărescu,Solenoid,27826456,5:3890|4:1879|3:934|2:351|1:150|total:7204,7204,1551,4.25,2015,literary fiction
+269,Astrid H. Roemer,On a Woman's Madness,61244744,5:94|4:214|3:304|2:164|1:27|total:803,803,205,3.23,1982,literary fiction
+270,Gaëlle Bélem,There's a Monster Behind the Door,218718725,5:70|4:213|3:173|2:35|1:10|total:501,501,98,3.59,2020,literary fiction
+271,Christian Kracht,Eurotrash,220396538,5:1751|4:5045|3:4569|2:1499|1:302|total:13166,13166,1649,3.49,None,literary fiction
+272,Selva Almada,Not a River,195790859,5:1983|4:3667|3:2102|2:403|1:63|total:8218,8218,1192,3.86,2020,literary fiction
+273,Jenny Erpenbeck,Kairos,58877223,5:3790|4:8800|3:9881|2:4291|1:1276|total:28038,28038,4631,3.34,2021,literary fiction
+274,Ia Genberg,The Details,63313297,5:6734|4:11749|3:6513|2:1435|1:245|total:26676,26676,3626,3.87,2022,literary fiction
+275,Hwang Sok-yong,Mater 2-10,61921635,5:168|4:338|3:249|2:71|1:12|total:838,838,161,3.69,2020,literary fiction
+276,Urszula Honek,White Nights,203425834,5:307|4:560|3:374|2:112|1:21|total:1374,1374,266,3.74,2022,literary fiction
+277,Jente Posthuma,What I'd Rather Not Think About,61921644,5:1221|4:3001|3:2006|2:426|1:64|total:6718,6718,1009,3.73,2020,literary fiction
+278,Itamar Vieira Junior,Crooked Plow,120855172,5:18627|4:9809|3:3267|2:529|1:121|total:32353,32353,3765,4.43,2019,literary fiction
+279,Rodrigo Blanco Calderón,Simpatía,51658555,5:99|4:267|3:278|2:101|1:18|total:763,763,141,3.43,2020,literary fiction
+280,Ismail Kadare,A Dictator Calls,123033172,5:92|4:269|3:484|2:215|1:69|total:1129,1129,211,3.09,None,literary fiction
+281,Andrey Kurkov,The Silver Bone (Kyiv Mysteries #1),173956327,5:335|4:1097|3:1183|2:324|1:59|total:2998,2998,478,3.44,2018,literary fiction
+282,Veronica Raimo,Lost on Me,65502618,5:3336|4:8311|3:7054|2:2114|1:397|total:21212,21212,2472,3.57,2022,literary fiction
+283,Domenico Starnone,The House on Via Gemito,63283383,5:318|4:499|3:386|2:147|1:30|total:1380,1380,213,3.67,2000,literary fiction
+284,Gabriela Wiener,Undiscovered,70240502,5:1546|4:2310|3:1446|2:411|1:110|total:5823,5823,933,3.82,2021,literary fiction
+285,Georgi Gospodinov,Time Shelter,58999261,5:7994|4:11098|3:8185|2:2822|1:781|total:30880,30880,4689,3.74,2020,literary fiction
+286,Eva Baltasar,Boulder,49236083,5:4837|4:7955|3:4161|2:987|1:228|total:18168,18168,3281,3.89,2020,literary fiction
+287,Myeong-kwan Cheon,Whale,29382499,5:1567|4:1943|3:940|2:321|1:114|total:4885,4885,889,3.93,2004,literary fiction
+288,Maryse Condé,The Gospel According to the New World,78819544,5:69|4:196|3:450|2:247|1:63|total:1025,1025,172,2.96,2021,literary fiction
+289,Gauz,Standing Heavy,61411075,5:286|4:631|3:590|2:128|1:43|total:1678,1678,286,3.59,2014,literary fiction
+290,Guadalupe Nettel,Still Born,95696897,5:10448|4:13285|3:4788|2:771|1:153|total:29445,29445,4468,4.12,2020,literary fiction
+291,Vigdis Hjorth,Is Mother Dead,60059857,5:1933|4:3241|3:1849|2:419|1:106|total:7548,7548,900,3.86,2020,literary fiction
+292,Andrey Kurkov,Jimi Hendrix Live in Lviv,123248566,5:109|4:327|3:286|2:69|1:16|total:807,807,132,3.55,2012,literary fiction
+293,Laurent Mauvignier,The Birthday Party,61154622,5:661|4:988|3:614|2:246|1:74|total:2583,2583,443,3.74,2020,literary fiction
+294,Clemens Meyer,While We Were Dreaming,61798404,5:529|4:558|3:289|2:104|1:36|total:1516,1516,185,3.95,2006,literary fiction
+295,Perumal Murugan,Pyre,29861389,5:886|4:1453|3:755|2:150|1:32|total:3276,3276,606,3.92,2013,literary fiction
+296,Amanda Svensson,A System So Magnificent It Is Blinding,60105494,5:434|4:1074|3:857|2:322|1:90|total:2777,2777,308,3.52,2019,literary fiction
+297,Zou Jingzhi,Ninth Building,60799975,5:54|4:152|3:107|2:22|1:4|total:339,339,70,3.68,2010,literary fiction
+298,Geetanjali Shree,Tomb of Sand,58703758,5:1059|4:1388|3:1011|2:418|1:198|total:4074,4074,853,3.66,2018,literary fiction
+299,Bora Chung,Cursed Bunny,56648660,5:9026|4:18709|3:12500|2:3031|1:688|total:43954,43954,8455,3.74,2017,literary fiction
+300,Mieko Kawakami,Heaven,53223710,5:20117|4:40188|3:26136|2:5527|1:1083|total:93051,93051,15246,3.78,2009,literary fiction
+301,Claudia Piñeiro,Elena Knows,56802275,5:10164|4:13301|3:5559|2:1128|1:231|total:30383,30383,5284,4.05,2007,literary fiction
+302,Sang Young Park,Love in the Big City,57500766,5:3134|4:7487|3:5800|2:1335|1:202|total:17958,17958,2988,3.67,2019,literary fiction
+303,Jon Fosse,A New Name: Septology VI-VII,58382687,5:1696|4:778|3:204|2:41|1:20|total:2739,2739,405,4.49,2021,literary fiction
+304,Olga Tokarczuk,The Books of Jacob,58276619,5:4278|4:3817|3:1901|2:636|1:268|total:10900,10900,1826,4.03,2014,literary fiction
+305,Jonas Eika,After the Sun,56355657,5:325|4:801|3:901|2:564|1:223|total:2814,2814,409,3.16,2018,literary fiction
+306,David Grossman,More Than I Love My Life,55894188,5:1891|4:2155|3:1022|2:235|1:74|total:5377,5377,648,4.03,2019,literary fiction
+307,Violaine Huisman,The Book of Mother,56898088,5:620|4:1111|3:710|2:163|1:42|total:2646,2646,472,3.8,2018,literary fiction
+308,Fernanda Melchor,Paradais,58730652,5:3423|4:8434|3:6346|2:1709|1:517|total:20429,20429,3541,3.61,2021,literary fiction
+309,Norman Erikson Pasaribu,"Happy Stories, Mostly",59602522,5:364|4:983|3:653|2:157|1:23|total:2180,2180,481,3.69,2020,literary fiction
+310,Paulo Scott,Phenotypes,57443695,5:258|4:523|3:347|2:87|1:9|total:1224,1224,174,3.76,2019,literary fiction
+311,David Diop,At Night All Blood is Black,50403480,5:6734|4:12772|3:7561|2:1918|1:470|total:29455,29455,4243,3.79,2018,literary fiction
+312,Mariana Enriquez,The Dangers of Smoking in Bed,53215250,5:14951|4:28805|3:17698|2:4099|1:872|total:66425,66425,10945,3.8,2009,literary fiction
+313,Benjamín Labatut,When We Cease to Understand the World,62069739,5:25537|4:26250|3:11516|2:2763|1:737|total:66803,66803,9283,4.09,2020,literary fiction
+314,Olga Ravn,The Employees,53780642,5:5801|4:12249|3:9353|2:2877|1:661|total:30941,30941,5462,3.64,2018,literary fiction
+315,Maria Stepanova,In Memory of Memory,53492649,5:717|4:841|3:540|2:185|1:54|total:2337,2337,429,3.85,2017,literary fiction
+316,Éric Vuillard,The War of the Poor,54765614,5:463|4:987|3:1170|2:464|1:102|total:3186,3186,509,3.39,2019,literary fiction
+317,Can Xue,I Live in the Slums: Stories,51871688,5:30|4:60|3:63|2:36|1:17|total:206,206,51,3.24,2020,literary fiction
+318,Nana Ekvtimishvili,The Pear Field,49007411,5:433|4:886|3:732|2:144|1:26|total:2221,2221,328,3.7,2015,literary fiction
+319,Ngũgĩ wa Thiong'o,The Perfect Nine: The Epic of Gĩkũyũ and Mũmbi,54815570,5:250|4:598|3:486|2:79|1:18|total:1431,1431,245,3.69,2018,literary fiction
+320,Jaap Robben,Summer Brother,51797918,5:573|4:1878|3:1040|2:216|1:47|total:3754,3754,490,3.72,2018,literary fiction
+321,Judith Schalansky,An Inventory of Losses,52175029,5:260|4:607|3:764|2:281|1:76|total:1988,1988,345,3.35,2018,literary fiction
+322,Adania Shibli,Minor Detail,52045757,5:17464|4:20115|3:6185|2:1309|1:335|total:45408,45408,7869,4.17,2017,literary fiction
+323,Andrzej Tichý,Wretchedness,49007455,5:72|4:175|3:165|2:60|1:19|total:491,491,88,3.45,2016,literary fiction
+324,Lucas Rijneveld,The Discomfort of Evening,49374086,5:6790|4:13263|3:11619|2:5249|1:2229|total:39150,39150,6164,3.44,2018,literary fiction
+325,Shokoofeh Azar,The Enlightenment of the Greengage Tree,35708940,5:1339|4:1980|3:1271|2:390|1:154|total:5134,5134,910,3.77,2017,literary fiction
+326,Gabriela Cabezón Cámara,The Adventures of China Iron,227945775,5:1681|4:2511|3:1705|2:429|1:111|total:6437,6437,968,3.81,2017,literary fiction
+327,Daniel Kehlmann,Tyll,36130507,5:5090|4:6392|3:3420|2:859|1:240|total:16001,16001,1766,3.95,2017,literary fiction
+328,Fernanda Melchor,Hurricane Season,46041168,5:19219|4:20049|3:8666|2:2706|1:1186|total:51826,51826,10229,4.03,2017,literary fiction
+329,Yōko Ogawa,The Memory Police,37004370,5:28654|4:60473|3:44535|2:11762|1:2143|total:147567,147567,23199,3.69,1994,literary fiction
+330,Willem Anker,Red Dog,46157305,5:47|4:73|3:67|2:38|1:14|total:239,239,53,3.42,2014,literary fiction
+331,Jon Fosse,The Other Name: Septology I-II,46024004,5:2647|4:2562|3:1123|2:373|1:155|total:6860,6860,1092,4.05,2019,literary fiction
+332,Nino Haratischwili,The Eighth Life,41071389,5:22548|4:9186|3:2347|2:546|1:165|total:34792,34792,4334,4.54,2014,literary fiction
+333,Michel Houellebecq,Serotonin,42594530,5:5925|4:12656|3:9724|2:3305|1:1154|total:32764,32764,3324,3.58,2019,literary fiction
+334,Emmanuelle Pagano,Faces on the Tip of My Tongue,41945016,5:46|4:115|3:95|2:22|1:3|total:281,281,66,3.64,2012,literary fiction
+335,Samanta Schweblin,Little Eyes,48635845,5:4196|4:9647|3:8483|2:2398|1:499|total:25223,25223,4184,3.58,2018,literary fiction
+336,Enrique Vila-Matas,Mac and His Problem,52411074,5:134|4:256|3:281|2:89|1:30|total:790,790,132,3.47,2017,literary fiction
